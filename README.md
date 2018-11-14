@@ -2,3 +2,4 @@
 仿制商店里卖的那种，英文字体Times，中文华文行楷。
 为了写推荐信做的。
 Feel free to use.
+![截个图看下](https://github.com/JiaoMaWHU/WHU_Template/blob/master/preview.png)
